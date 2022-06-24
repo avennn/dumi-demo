@@ -1,18 +1,18 @@
 ---
 nav:
-  title: Modal
+  title: Button
   path: /components
 ---
 
-## Foo
+## Bar
 
 Demo:
 
 ```tsx
-import { Foo } from 'dumi-demo';
+import { Bar } from 'dumi-demo';
 import React from 'react';
 
-export default () => <Foo title="Demo Foo" />;
+export default () => <Bar title="Demo Bar" />;
 ```
 
 More skills for writing demo: https://d.umijs.org/guide/basic#write-component-demo
